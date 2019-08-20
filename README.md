@@ -8,6 +8,7 @@ Clone this repository, install dependencies, compile and run it:
 ```git clone https://github.com/blendmaker/BabylonJsDesktop.git BabylonJsDesktop
 cd BabylonJsDesktop
 npm i
-npm start```
+npm start
+```
 
-If anything doesn't work, please check you have ```npm``` installed and if needed, please set up an issue.
+If anything doesn't work, please check you have ```npm``` installed and if needed, set up an issue.
