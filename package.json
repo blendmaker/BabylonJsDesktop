@@ -23,7 +23,7 @@
     "babylonjs-viewer": "^4.0.3"
   },
   "devDependencies": {
-    "electron": "^6.0.2",
+    "electron": "^7.2.4",
     "typescript": "^3.5.3"
   }
 }
