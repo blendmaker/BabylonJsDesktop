@@ -32,9 +32,7 @@ export class Application {
   }
 
   public run() {
-    this.engine.runRenderLoop(() => {
-      this.scene && this.scene.render();
-    });
+    this.engine.runRenderLoop(() => this.scene && this.scene.render());
   }
 }
 
