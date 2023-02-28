@@ -20,7 +20,7 @@
     "babylonjs-post-process": "^4.2.1",
     "babylonjs-procedural-textures": "^4.2.1",
     "babylonjs-serializers": "^4.2.1",
-    "babylonjs-viewer": "^4.2.1"
+    "babylonjs-viewer": "^5.48.0"
   },
   "devDependencies": {
     "electron": "^16.0.7",
